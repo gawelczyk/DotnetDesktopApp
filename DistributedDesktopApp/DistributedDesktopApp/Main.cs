@@ -230,5 +230,12 @@ namespace DistributedDesktopApp
         }
 
         #endregion
+
+        private void btnInvoice_Click(object sender, EventArgs e)
+        {
+            var frm = new Invoices() { IppRealmOAuthProfile = _ippRealmOAuthProfile };
+            frm.Show();
+
+        }
     }
 }

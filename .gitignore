@@ -13,3 +13,4 @@
 *.a
 /DistributedDesktopApp/DistributedDesktopApp/obj
 /DistributedDesktopApp/DistributedDesktopApp/bin
+*.suo
