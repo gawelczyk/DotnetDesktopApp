@@ -11,3 +11,5 @@
 *.lai
 *.la
 *.a
+/DistributedDesktopApp/DistributedDesktopApp/obj
+/DistributedDesktopApp/DistributedDesktopApp/bin
